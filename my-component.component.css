@@ -1,0 +1,10 @@
+    .bgimage {
+     position: fixed;
+     min-width:85%;
+     background-image: url("/assets/Sundar_Pichai.1.jpg");
+     background-repeat: no-repeat;
+     background-size: 0%;
+     background-position: center;
+     background-size: cover;
+     background-color: blue;
+     }
